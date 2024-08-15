@@ -1,0 +1,7 @@
+numPrint	FUN
+num	INT
+length	INT
+i	INT
+j	INT
+first	INT
+temp	INT

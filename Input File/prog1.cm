@@ -1,0 +1,23 @@
+def intnumPrint(int num, int length)
+{
+	int i, j, first, temp;
+	print "enter number";
+	read i;
+	i <- length;
+	while (i> 0)
+	{
+		first<-0;	#this line contains a comment
+		j <-1;
+		while (j <= i)
+		{
+			print j;
+			j <- j + 1;
+		}
+	# this is a comment
+	i<- i - 1;
+	##This is a 
+	Multiline
+	Comment##
+	}
+	ret i;
+}
